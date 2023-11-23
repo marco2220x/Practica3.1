@@ -1,6 +1,6 @@
 # Clasificador de Mínima Distancia 📸
 
-En este trabajo, se trabajará con el conjunto de datos Iris el cual es comúnmente utilizado para ilustrar y evaluar diferentes métodos de clasificación debido a que tiene tres clases (tres tipos de flores), por lo que la aplicación del clasificador de distancia mínima es relevante debido a la separación relativamente clara entre las clases. 
+En este trabajo, se implementará el conjunto de datos Iris el cual es comúnmente utilizado para ilustrar y evaluar diferentes métodos de clasificación debido a que tiene tres clases (tres tipos de flores), por lo que la aplicación del clasificador de distancia mínima es relevante debido a la separación relativamente clara entre las clases. 
 
 ## Etapas de la clasificación de mínima distancia
 A continuación se describen las fases de procesamiento de los datos de Iris, sobre el enfoque de la clasificación de distancia mínima.
@@ -35,7 +35,7 @@ Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos util
   </tr>
   <tr>
     <td align="center">
-      Conectividad 4
+      2 Características y 2 Clases
     </td>
   </tr>
 </table>
@@ -50,7 +50,7 @@ Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos util
   </tr>
   <tr>
     <td align="center">
-      Conectividad 8
+      2 Características y 3 Clases
     </td>
   </tr>
 </table>
@@ -65,7 +65,7 @@ Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos util
   </tr>
   <tr>
     <td align="center">
-      Conectividad 8
+      3 Características y 2 Clases
     </td>
   </tr>
 </table>
@@ -80,7 +80,7 @@ Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos util
   </tr>
   <tr>
     <td align="center">
-      Conectividad 4
+      2 Características y 2 Clases
     </td>
   </tr>
 </table>
@@ -95,7 +95,7 @@ Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos util
   </tr>
   <tr>
     <td align="center">
-      Conectividad 8
+      2 Características y 3 Clases
     </td>
   </tr>
 </table>
